@@ -2,7 +2,7 @@
 Список покупок, варианты, на что стоит обратить внимание.
 
 ## 1. Система обратного осмоса
- - Ecosoft Standard [Перейти](https://uavoda.com/sistema-obratnogo-osmosa-ecosoft-standard/ "Фильтр обратного осмоса Ecosoft Standard")
+- Ecosoft Standard [Перейти](https://uavoda.com/sistema-obratnogo-osmosa-ecosoft-standard/ "Фильтр обратного осмоса Ecosoft Standard")
   - **Цена**: 2712грн.
 
 
